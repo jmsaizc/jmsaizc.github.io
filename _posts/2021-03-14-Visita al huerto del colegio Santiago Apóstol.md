@@ -1,1 +1,12 @@
----layout: posttitle: Visita al huerto del colegio Santiago Apóstoldate: 2021-03-14 00:40:16categories: uncategorizedtags:- randomimage: /img/image.jpgcaption: This is a picture---El alcalde, Luis Partida, ha visitado hoy junto al teniente de alcalde, Enrique Serrano, y la concejala de Educación, Cristina Hernández, el nuevo huerto del colegio Santiago Apóstol. Esta actuación se enmarca dentro del Proyecto Municipal de Promoción de Huertos Escolares.  [link](https://www.ayto-villacanada.es/tu-ayuntamiento/visita-al-huerto-del-colegio-santiago-apostol/)
+---
+	layout: post
+	title: Visita al huerto del colegio Santiago Apóstol
+	date: 2021-03-14 00:42:37
+	categories: uncategorized
+	tags:
+	- random
+	image: /img/image.jpg
+	caption: This is a picture
+	---
+	El alcalde, Luis Partida, ha visitado hoy junto al teniente de alcalde, Enrique Serrano, y la concejala de Educación, Cristina Hernández, el nuevo huerto del colegio Santiago Apóstol. Esta actuación se enmarca dentro del Proyecto Municipal de Promoción de Huertos Escolares.  [link](https://www.ayto-villacanada.es/tu-ayuntamiento/visita-al-huerto-del-colegio-santiago-apostol/)
+	
