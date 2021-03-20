@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 15 de marzo: Día Mundial de los Derechos del Consumidor
-date: 2021-03-20 12:00:13
+date: 2021-03-20 14:00:15
 categories: uncategorized
 tags:
 - random
