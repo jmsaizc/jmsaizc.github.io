@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reunión de trabajo con la presidenta de la Comunidad de Madrid
-date: 2021-03-20 16:00:10
+date: 2021-03-20 18:00:09
 categories: uncategorized
 tags:
 - random
