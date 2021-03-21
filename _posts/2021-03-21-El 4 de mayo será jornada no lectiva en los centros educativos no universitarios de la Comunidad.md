@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El 4 de mayo será jornada no lectiva en los centros educativos no universitarios de la Comunidad
-date: 2021-03-21 21:23:29
+date: 2021-03-21 21:29:49
 categories: uncategorized
 tags:
 - random
