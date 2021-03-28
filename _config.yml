@@ -38,7 +38,9 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: G-8G5BNMHC2N
+google_analytics: UA-187486301-1
+
+## Analytics vinculado a flujo de jmsaizc.github.io (G-8G5BNMHC2N)
 ## Analytics vinculado a flujo de (https://vvacanada.expresnews.ro/) G-EPB32K0Y95
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
