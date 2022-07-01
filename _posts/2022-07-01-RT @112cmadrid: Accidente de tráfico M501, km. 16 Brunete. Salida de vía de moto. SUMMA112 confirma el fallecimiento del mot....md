@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RT @112cmadrid: Accidente de tráfico M501, km. 16 Brunete. Salida de vía de moto. SUMMA112 confirma el fallecimiento del mot...
+title: RT 112cmadrid: Accidente de tráfico M501, km. 16 Brunete. Salida de vía de moto. SUMMA112 confirma el fallecimiento del mot...
 date: 2022-07-01 07:41:13
 categories: uncategorized
 tags:
