@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RT @112cmadrid: ⚠️ Aumenta el peligro de incendios en la región.🟠 Es ALTO en la mayor parte de la @ComunidadMadrid.🔥 ¿Fuego,...
+title: RT @112cmadrid: Aumenta el peligro de incendios en la región. Es ALTO en la mayor parte de la @ComunidadMadrid. ¿Fuego,...
 date: 2022-06-30 07:39:11
 categories: uncategorized
 tags:
